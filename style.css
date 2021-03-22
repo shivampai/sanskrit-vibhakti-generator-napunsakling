@@ -1,0 +1,28 @@
+.text {
+    font-family: "martel" , serif;
+    font-weight: 500;
+    font-size: 20px;;
+}
+body {
+    padding: 15px;;
+}
+td,th {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 8px;
+    height: 30px;
+    font-size: 15px;
+}
+td {
+    text-align: center;
+}
+th {
+    background-color: #dddddd;
+    text-align: center;
+}
+ table {
+ font-family: 'Martel', serif;
+        border-collapse: collapse;
+        width: 100%;
+        text-align: center;
+      }
